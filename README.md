@@ -1,2 +1,2 @@
 # SoftwareProjekt
-Develop a Projekt für the fourth Semester
+Develop a Projekt for the fourth Semester
